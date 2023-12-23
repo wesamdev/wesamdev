@@ -4,7 +4,7 @@ Hi 👋 My name is Wesam Almasruri
 Web developer & Software Developer
 ----------------------------------
 
-i learned to code 4 when i was 11 years old, now i'm 15 years old.
+i learned to code when i was 11 years old, now i'm 15 years old.
 
 * 🌍  I'm based in Oman
 * 🖥️  See my portfolio at [wesam.dev](http://wesam.pages.dev)
