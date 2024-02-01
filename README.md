@@ -25,7 +25,7 @@ i learned to code when i was 11 years old, now i'm 15 years old.
 
 ### Badges
 [![trophy](https://github-profile-trophy.vercel.app/?username=wesamdev)](https://github.com/ryo-ma/github-profile-trophy)
-[![codewara](https://www.codewars.com/users/wesamdev/badges/micro)](https://www.codewars.com/users/wesamdev/)
+[![codewara](https://www.codewars.com/users/wesamdev/badges/small)](https://www.codewars.com/users/wesamdev/)
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/wesamdev"><img src="https://github-readme-stats.vercel.app/api?username=wesamdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wesamdev's GitHub stats" /></a>
